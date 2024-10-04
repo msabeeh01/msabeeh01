@@ -4,6 +4,7 @@
   - Learning NixOS and working through linux by blowing up my configs
 - 🌱 I’m currently learning ...
   - Private HomeLabs (IBM X3650 M4)
+    - ProxMox (Virtual Boxes, LXC's)
     - TrueNAS
     - Virtualization
     - KVM
